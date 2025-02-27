@@ -28,4 +28,6 @@ brew install --cask intellij-idea
 brew install --cask intellij-idea-ce
 brew install --cask sublime-text
 brew install awscli
+brew install python3
+curl -sSL https://storage.yandexcloud.net/yandexcloud-yc/install.sh | bash
 ```
