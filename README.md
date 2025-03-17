@@ -6,11 +6,11 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Go
 
-## Projects
+# Projects
 First of all: 
 * Starterkit. Software installation. https://github.com/wkwwa/wkwwa/blob/main/starterkit.md
 
-DevOps:
+## DevOps:
 
 * DevOps project demonstrating a full application build-delivery cycle using CI/CD and toolset: Docker, Gitlab CI/CD, Terraform, k8s, Helm, ArgoCD and monitoring with Prometheus, Grafana. App: Vue.js, HTML - frontend, Go - backend.
   * CI https://github.com/wkwwa/store-ci
@@ -73,3 +73,8 @@ DevOps:
   </details>
 
 * Automated virtual machine deployment with Vagrant. Installing Nexus on a VM using Vagrant and VMWare (MacOS Apple Silicon chip) https://github.com/wkwwa/vm-vagrant
+* Infrastructure deploy using the Infrastructure as Code approach and creating a virtual machine and S3 bucket using Terraform in Yandex Cloud https://github.com/wkwwa/terraform-yc-instance
+* Terraform config deploys a virtual machine and a VPC infrastructure. Demo shows creating a Terraform configuration using variables and modules for reuse or extension configuration https://github.com/wkwwa/tf-var-modules-yc-instance
+* Automated RKE Installation. The roject provides scripts and configuration files to automate the installation of a Kubernetes cluster on Yandex Cloud using Rancher Kubernetes Engine https://github.com/wkwwa/k8s_install_yandex_cloud_rke
+
+## Golang:
